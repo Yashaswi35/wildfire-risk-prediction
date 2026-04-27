@@ -81,18 +81,6 @@ Six models compared, with hyperparameter tuning on top two:
 
 ---
 
-## Results
-
-| Model | AUC | Recall | F1 |
-|---|---|---|---|
-| Logistic Regression | — | — | — |
-| Random Forest (tuned) | — | — | — |
-| XGBoost (tuned) | **0.81** | **0.81** | — |
-| Stacking Ensemble | — | — | — |
-| Voting Ensemble | — | — | — |
-
-> Update remaining values after running the notebook.
-
 ---
 
 ## Output: Fire Risk Maps
