@@ -81,8 +81,6 @@ Six models compared, with hyperparameter tuning on top two:
 
 ---
 
----
-
 ## Output: Fire Risk Maps
 
 The final output is a geospatial fire risk probability map by location and month. Each latitude/longitude grid point receives a calibrated probability score for 2024-2025.
